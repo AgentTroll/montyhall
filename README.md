@@ -45,6 +45,16 @@ two different subclasses. The other way is functional,
 whereby the two test functions are passed as arguments to a
 separate `run_function` that just calls the argument.
 
+# Usage
+
+Requires Python3.
+
+``` shell
+git clone https://github.com/AgentTroll/montyhall.git
+cd montyhall
+python3 montyhall.py
+```
+
 # Demo
 
 ```
