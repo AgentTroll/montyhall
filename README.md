@@ -50,7 +50,7 @@ separate `run_function` that just calls the argument.
 Requires Python3.
 
 ``` shell
-git clone https://github.com/AgentTroll/montyhall.git
+git clone https://github.com/caojohnny/montyhall.git
 cd montyhall
 python3 montyhall.py
 ```
